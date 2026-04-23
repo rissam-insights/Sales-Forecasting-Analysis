@@ -62,7 +62,7 @@ An interactive dashboard was built using **Power BI** to support data-driven pla
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard(2).jpeg)
+![Dashboard](dashboard.jpeg)
 
 ---
 
